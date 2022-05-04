@@ -1,4 +1,4 @@
-# IPDNet: Iterated Prisoner’s Dilemma over the network
+# IPDNet: Iterated Prisoner’s Dilemma over Networks
 
 IPDNet is a free to use open-source Java-based software, developed by [Juan C. Burguillo](https://sites.google.com/site/jcburgui2) to study the iterated prisoner’s dilemma (IPD) over the networks. 
 
@@ -7,9 +7,8 @@ IPDNet is a free to use open-source Java-based software, developed by [Juan C. B
 1. [IPDNet Basic Features](#IPDNet-basic-features)
 2. [How to use IPDNet](#how-to-use-IPDNet)
 3. [IPDNet Utilities](#IPDNet-Utilities)
-4. [IPDNet Snapshots](#IPDNet-Snapshots)
-5. [Citing](#citing)
-6. [License](#licence)
+4. [Citing](#citing)
+5. [License](#licence)
 
 
 ## IPDNet Basic Features
@@ -43,24 +42,6 @@ IPDNet allows a hands-on approach to simulating the IPD over the nets. Using IPD
 - **Modify the algorithms**: readers having standard Java programming skills can redesign their own algorithms, and then test the behaviors obtained by performing new experiments. For this, new algorithms can be created from scratch, or more commonly, the algorithm files already included can be inherited and used as templates. IPDNet code includes support for generating different types of complex topologies, using several machine learning techniques, performing evolutionary meta-decisions, generating real-time visualizations and interacting with external network analyzers.
 
 
-## IPDNet Snapshots
-
-Find next some images describing the framework shape, and how to configure networks and games:
-
-- A Framework snapshot with the coalition spatial IPD game
-
-![A Framework snapshot with the coalition spatial IPD game](images/IPDNet.png)
-
-- Framework Configuration Window
-
-![Framework Configuration Window](images/ConfigWindow.png)
-
-- Network Parameter Window
-
-![Network Parameter Window](images/NetParamWindow.png)
-
-
-
 
 ## Citing
 
@@ -68,7 +49,7 @@ You may cite this repository in the following way:
 ```
 @misc{Burguillo2022,
   author = {Burguillo, Juan C.},
-  title = {IPDNet: Iterated Prisoner’s Dilemma over the network},
+  title = {IPDNet: Iterated Prisoner’s Dilemma over Networks},
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
