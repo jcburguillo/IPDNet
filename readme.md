@@ -29,7 +29,7 @@ A few steps are described next in order to use, program and understand the frame
 
 1. **Running IPDNet in standalone version**: just double-click or execute from the shell the IPDNet.jar file provided in the distribution. You must have installed the Java 1.8 version.
 
-2. **Opening IPDNet in Eclipse**: the framework has been programmed in Java using Eclipse, and should be easily open as an Eclipse project. Just decompress the IPDNet.zip file to have a IPDNet folder that you must import as a project from Eclipse.
+2. **Opening IPDNet in Eclipse**: the framework has been programmed in Java using Eclipse, and should be easily open as an Eclipse project. Just decompress the downloaded ZIP file to have a IPDNet folder that you must import as a project from Eclipse.
 
 3. **Documentation**: simply open the “Intro2IPDNet.pdf” file included in the distribution for a brief introduction to IPDNet. Besides, the source files are fully commented.
 
