@@ -13,6 +13,8 @@ IPDNet is a free to use open-source Java-based software, developed by [Juan C. B
 
 ## IPDNet Basic Features
 
+![A IPDNet snapshot](images/IPDNet.png)
+
 IPDNet works in two modes: i) using a graphical user interface (GUI) for doing micro-simulations or ii) using a batch mode for doing macro-simulations. IPDNet also provides support for:
 
 - Visualizing the whole set of cells and their state on simulations.
