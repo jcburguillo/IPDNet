@@ -1,7 +1,7 @@
 
 1. Opening IPDNet in Eclipse
 
-The framework has been programmed in Java using Eclipse, and should be easily open as an Eclipse project. Just decompress the IPDNet.zip file to have a IPDNet folder that you must import as a project from Eclipse.
+The framework has been programmed in Java using Eclipse, and should be easily open as an Eclipse project. Just decompress the IPDNet.zip file to have a IPDNet folder that you must import as a project from Eclipse. You may need to select the Eclipse Preferences and configure TAB to 2 spaces in order to indent the code appropriately.
 
 
 2. Running IPDNet in standalone version
